@@ -1,6 +1,6 @@
 ## Overview
 
-TEST text...
+TEST text... <-->
 
 A sample demonstrating capabilities in the Spring Framework to build WebSocket-style messaging applications. The application uses [STOMP](http://stomp.github.io/) (over WebSocket) for messaging between browsers and server and [SockJS](https://github.com/sockjs/sockjs-protocol) for WebSocket fallback options.
 
